@@ -77,6 +77,18 @@
 		</div>
 	</div>
 
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<article>
+					<section>
+						<h1>Best car wash in Texas</h1>
+					</section>
+				</article>
+			</div>
+		</div>
+	</div>
+	
 	<footer>
 		<div id="footer" class="text-center">
 			<span><?php echo date("Y"); ?></span> All rights reserved.
